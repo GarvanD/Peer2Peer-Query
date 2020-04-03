@@ -1,0 +1,17 @@
+{
+  "name": "assn3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GetImage.js",
+  "scripts": {
+    "test": "-v 3314 -q test.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2",
+    "open": "^7.0.3",
+    "random-int": "^2.0.1",
+    "sizeof": "^1.0.0"
+  }
+}
